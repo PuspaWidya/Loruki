@@ -63,7 +63,7 @@ code,pre{
     padding: 10px;
 }
 
-.navbar .hidden{
+.hidden{
     visibility: hidden;
     height: 0;
 }
